@@ -1,0 +1,3 @@
+#+title: Mystic Woods (task)
+
+Information about this task can be found in [[file:task.org][this file]]
